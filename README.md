@@ -1,5 +1,5 @@
 # apple-stock-prediction
-Since you have your **Apple Stock Profit Predictor** ready with `app.py`, `knn_model.pkl`, and `requirements.txt`, you need a great **README.md** file. This file acts as the "homepage" of your project on GitHub, telling people what it does and how to run it.
+Since you have your **Apple Stock Profit Predictor** ready with `app.py`, `knn_model.pkl`, and `requirements.txt`
 
 
 
