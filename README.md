@@ -10,7 +10,7 @@ Since you have your **Apple Stock Profit Predictor** ready with `app.py`, `knn_m
 A machine learning web application built with **Streamlit** that predicts whether a trade on Apple (AAPL) stock will result in a **Profit** or **Loss** based on specific market indicators.
 
 ## 🚀 Live Demo
-[Insert your Streamlit Cloud Link Here, e.g., https://your-app-name.streamlit.app]
+https://huggingface.co/spaces/saiteja2001/Apple_Stock_Prediction
 
 ## ✨ Features
 * **Real-time Prediction:** Input stock parameters (Open, High, Low, Close, Volume) to get an instant prediction.
