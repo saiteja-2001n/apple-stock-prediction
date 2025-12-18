@@ -71,14 +71,7 @@ Created by [Your Name]
 
 ---
 
-### How to add this to your GitHub:
-1.  **Create the file:** Inside your project folder, create a file named `README.md`.
-2.  **Paste the code:** Copy the text from the box above and paste it into that file.
-3.  **Update GitHub:** Run these commands in your terminal:
-    ```bash
-    git add README.md
-    git commit -m "Added README file"
-    git push
+
     ```
 
 **Would you like me to help you customize the "How it Works" section with more technical details about your KNN model?**
