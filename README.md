@@ -1,9 +1,8 @@
 # apple-stock-prediction
 Since you have your **Apple Stock Profit Predictor** ready with `app.py`, `knn_model.pkl`, and `requirements.txt`, you need a great **README.md** file. This file acts as the "homepage" of your project on GitHub, telling people what it does and how to run it.
 
-Copy and paste the content below into a new file named `README.md` in your project folder:
 
----
+
 
 ```markdown
 # 📈 Apple Stock Profit Predictor
@@ -65,15 +64,7 @@ The model takes 5 inputs: **Open, High, Low, Close Prices, and Volume**. It scal
 
 ---
 
-Created by [Your Name]
-
-```
-
----
+Created by D.Sai Teja Goud
 
 
-    ```
 
-**Would you like me to help you customize the "How it Works" section with more technical details about your KNN model?**
-
-```
