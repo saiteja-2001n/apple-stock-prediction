@@ -16,7 +16,6 @@ https://huggingface.co/spaces/saiteja2001/Apple_Stock_Prediction
 * **Machine Learning:** Scikit-learn (K-Neighbors Classifier)
 * **Data Processing:** Pandas, NumPy
 * **Model Persistence:** Pickle
-```
 
 ## 📂 Project Structure
 
@@ -28,10 +27,6 @@ https://huggingface.co/spaces/saiteja2001/Apple_Stock_Prediction
 ## 📊 How it Works
 
 The model takes 5 inputs: **Open, High, Low, Close Prices, and Volume**. It scales these values using a pre-defined Min-Max scaling logic based on the original training dataset and then feeds them into the KNN model to determine the likely outcome.
-
----
-
-Created by D.Sai Teja Goud
 
 
 
