@@ -1,11 +1,4 @@
 # apple-stock-prediction
-Since you have your **Apple Stock Profit Predictor** ready with `app.py`, `knn_model.pkl`, and `requirements.txt`
-
-
-
-
-```markdown
-# 📈 Apple Stock Profit Predictor
 
 A machine learning web application built with **Streamlit** that predicts whether a trade on Apple (AAPL) stock will result in a **Profit** or **Loss** based on specific market indicators.
 
@@ -23,25 +16,7 @@ https://huggingface.co/spaces/saiteja2001/Apple_Stock_Prediction
 * **Machine Learning:** Scikit-learn (K-Neighbors Classifier)
 * **Data Processing:** Pandas, NumPy
 * **Model Persistence:** Pickle
-
-
 ```
-
-2. **Install dependencies:**
-Make sure you have Python installed, then run:
-```bash
-pip install -r requirements.txt
-
-```
-
-
-3. **Run the application:**
-```bash
-streamlit run app.py
-
-```
-
-
 
 ## 📂 Project Structure
 
